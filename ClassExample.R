@@ -7,3 +7,5 @@ print("A new line")
 print("Something new")
 
 sample(1:10,3)
+
+rnorm(50)
